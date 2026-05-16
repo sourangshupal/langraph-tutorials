@@ -1,0 +1,17 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "dependencies": ["."],
+  "graphs": {
+    "1_send_basic":      "./app/01_send_basic.py:app",
+    "2_send_specialist": "./app/02_send_specialist.py:app",
+    "3_send_variable":   "./app/03_send_variable.py:app",
+    "4_send_chained":    "./app/04_send_chained.py:app",
+    "5_send_command":    "./app/05_send_command.py:app",
+    "6_subgraphs":       "./app/06_subgraphs.py:app",
+    "7_multiagent":      "./app/07_multiagent.py:app",
+    "8_map_reduce":      "./app/08_map_reduce.py:app",
+    "9_deferred_nodes":  "./app/09_deferred_nodes.py:app",
+    "10_command_parent": "./app/10_command_parent.py:app"
+  },
+  "env": ".env"
+}
