@@ -20,7 +20,7 @@ By completing this series, you will be able to:
 
 ## Tutorial Structure
 
-The series consists of 10 progressive notebooks:
+The series consists of 11 progressive notebooks:
 
 | Notebook | Title | Complexity | Time |
 |----------|-------|------------|------|
@@ -34,6 +34,7 @@ The series consists of 10 progressive notebooks:
 | 08 | [Command Primitive, Functional API & Long-Term Memory](08_command_functional_api_longterm_memory.ipynb) | Expert | 60-75 min |
 | 09 | [Multi-Agent Systems](09_multi_agent_systems.ipynb) | Expert | 60-75 min |
 | 10 | [Testing, Observability & LangGraph Platform](10_testing_observability_platform.ipynb) | Expert | 45-60 min |
+| 11 | [Observability & Evaluation with Langfuse](11_observability_with_langfuse.ipynb) | Expert | 30-40 min |
 
 ## Notebook Overview
 
