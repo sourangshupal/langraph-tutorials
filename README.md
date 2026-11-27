@@ -20,7 +20,7 @@ By completing this series, you will be able to:
 
 ## Tutorial Structure
 
-The series consists of 11 progressive notebooks:
+The series consists of 13 progressive notebooks:
 
 | Notebook | Title | Complexity | Time |
 |----------|-------|------------|------|
@@ -35,6 +35,8 @@ The series consists of 11 progressive notebooks:
 | 09 | [Multi-Agent Systems](09_multi_agent_systems.ipynb) | Expert | 60-75 min |
 | 10 | [Testing, Observability & LangGraph Platform](10_testing_observability_platform.ipynb) | Expert | 45-60 min |
 | 11 | [Observability & Evaluation with Langfuse](11_observability_with_langfuse.ipynb) | Expert | 30-40 min |
+| 12 | [Model Context Protocol (MCP)](12_mcp_model_context_protocol.ipynb) | Expert | 45-55 min |
+| 13 | [Agent2Agent Protocol (A2A)](13_a2a_agent2agent_protocol.ipynb) | Expert | 45-55 min |
 
 ## Notebook Overview
 
